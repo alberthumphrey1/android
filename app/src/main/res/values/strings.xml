@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Second Morning Firefox App</string>
+    <string name="tv_title_text">Firefox App</string>
+    <string name="edit_name_hint">Enter name</string>
+</resources>
