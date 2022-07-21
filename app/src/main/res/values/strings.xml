@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Morning Tabbed Project</string>
+    <string name="tab_text_1">CHATS</string>
+    <string name="tab_text_2">STATUS</string>
+    <string name="tab_text_3">CALLS</string>
+
+</resources>
